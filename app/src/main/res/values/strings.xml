@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="sininverse">sin<sup><small>-1</small></sup></string>
+    <string name="cosinverse">cos<sup><small>-1</small></sup></string>
+    <string name="square">x<sup><small>2</small></sup></string>
+    <string name="xy">x<sup><small>y</small></sup></string>
+    <string name="taninverse">tan<sup><small>-1</small></sup></string>
+    <string name="ln">ln</string>
+    <string name="squareroottext">√</string>
+    <string name="pi">π</string>
+    <string name="e">e</string>
+    <string name="bracket_close">)</string>
+    <string name="bracket_open">(</string>
+
+</resources>
